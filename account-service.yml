@@ -1,4 +1,4 @@
 service:
-  name: account-service
+  name: accounts
 server:
   port: 8200
