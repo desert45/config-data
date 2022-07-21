@@ -1,2 +1,4 @@
+service:
+  name: credits
 server:
-  port: 8087
+  port: 8201
